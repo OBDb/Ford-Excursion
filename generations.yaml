@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Ford_Excursion"
+
+generations:
+  - name: "First Generation"
+    start_year: 2000
+    end_year: 2005
+    description: "A full-size SUV on the Super Duty chassis, with the 5.4 L V8, 6.8 L V10 and Power Stroke diesels."
